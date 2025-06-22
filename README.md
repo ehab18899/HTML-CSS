@@ -1,2 +1,2 @@
-# HTML-CSS
+# HTML-C
 Html &amp; Css Templates
